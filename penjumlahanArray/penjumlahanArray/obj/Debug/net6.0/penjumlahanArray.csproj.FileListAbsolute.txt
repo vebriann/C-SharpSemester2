@@ -1,0 +1,15 @@
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\penjumlahanArray\penjumlahanArray\obj\Debug\net6.0\penjumlahanArray.csproj.AssemblyReference.cache
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\penjumlahanArray\penjumlahanArray\obj\Debug\net6.0\penjumlahanArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\penjumlahanArray\penjumlahanArray\obj\Debug\net6.0\penjumlahanArray.AssemblyInfoInputs.cache
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\penjumlahanArray\penjumlahanArray\obj\Debug\net6.0\penjumlahanArray.AssemblyInfo.cs
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\penjumlahanArray\penjumlahanArray\obj\Debug\net6.0\penjumlahanArray.csproj.CoreCompileInputs.cache
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\penjumlahanArray\penjumlahanArray\bin\Debug\net6.0\penjumlahanArray.exe
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\penjumlahanArray\penjumlahanArray\bin\Debug\net6.0\penjumlahanArray.deps.json
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\penjumlahanArray\penjumlahanArray\bin\Debug\net6.0\penjumlahanArray.runtimeconfig.json
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\penjumlahanArray\penjumlahanArray\bin\Debug\net6.0\penjumlahanArray.dll
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\penjumlahanArray\penjumlahanArray\bin\Debug\net6.0\penjumlahanArray.pdb
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\penjumlahanArray\penjumlahanArray\obj\Debug\net6.0\penjumlahanArray.dll
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\penjumlahanArray\penjumlahanArray\obj\Debug\net6.0\refint\penjumlahanArray.dll
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\penjumlahanArray\penjumlahanArray\obj\Debug\net6.0\penjumlahanArray.pdb
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\penjumlahanArray\penjumlahanArray\obj\Debug\net6.0\penjumlahanArray.genruntimeconfig.cache
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\penjumlahanArray\penjumlahanArray\obj\Debug\net6.0\ref\penjumlahanArray.dll

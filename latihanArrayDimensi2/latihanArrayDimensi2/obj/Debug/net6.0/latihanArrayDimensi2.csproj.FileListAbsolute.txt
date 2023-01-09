@@ -1,0 +1,15 @@
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\latihanArrayDimensi2\latihanArrayDimensi2\bin\Debug\net6.0\latihanArrayDimensi2.exe
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\latihanArrayDimensi2\latihanArrayDimensi2\bin\Debug\net6.0\latihanArrayDimensi2.deps.json
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\latihanArrayDimensi2\latihanArrayDimensi2\bin\Debug\net6.0\latihanArrayDimensi2.runtimeconfig.json
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\latihanArrayDimensi2\latihanArrayDimensi2\bin\Debug\net6.0\latihanArrayDimensi2.dll
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\latihanArrayDimensi2\latihanArrayDimensi2\bin\Debug\net6.0\latihanArrayDimensi2.pdb
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\latihanArrayDimensi2\latihanArrayDimensi2\obj\Debug\net6.0\latihanArrayDimensi2.csproj.AssemblyReference.cache
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\latihanArrayDimensi2\latihanArrayDimensi2\obj\Debug\net6.0\latihanArrayDimensi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\latihanArrayDimensi2\latihanArrayDimensi2\obj\Debug\net6.0\latihanArrayDimensi2.AssemblyInfoInputs.cache
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\latihanArrayDimensi2\latihanArrayDimensi2\obj\Debug\net6.0\latihanArrayDimensi2.AssemblyInfo.cs
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\latihanArrayDimensi2\latihanArrayDimensi2\obj\Debug\net6.0\latihanArrayDimensi2.csproj.CoreCompileInputs.cache
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\latihanArrayDimensi2\latihanArrayDimensi2\obj\Debug\net6.0\latihanArrayDimensi2.dll
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\latihanArrayDimensi2\latihanArrayDimensi2\obj\Debug\net6.0\refint\latihanArrayDimensi2.dll
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\latihanArrayDimensi2\latihanArrayDimensi2\obj\Debug\net6.0\latihanArrayDimensi2.pdb
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\latihanArrayDimensi2\latihanArrayDimensi2\obj\Debug\net6.0\latihanArrayDimensi2.genruntimeconfig.cache
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\latihanArrayDimensi2\latihanArrayDimensi2\obj\Debug\net6.0\ref\latihanArrayDimensi2.dll
